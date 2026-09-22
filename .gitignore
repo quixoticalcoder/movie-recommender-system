@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+credits.csv
+movie.csv
+*.pkl
+.DS_Store
